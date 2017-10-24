@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Cinzel');
+
+h1, h2, h3, h4, h5
+{
+    font-family: 'Cinzel';
+}
+h2
+{
+    text-align: center;
+    line-height: 300%;
+}
+header h2
+{
+    text-align: left;
+}
+     
+body
+{
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: cursive;
+    font-size: 120%;
+}
+header
+{
+    background-color: azure;
+    color: #119793;
+    margin-bottom: 30px;
+
+}
+#contact
+{
+    text-align: right;
+}
+.CareerBlock
+{
+    margin-top: 50px;
+    padding-left: 15px;
+    
+}
+.skillsBlock
+{
+    margin-top: 50px;
+    padding-left: 15px;
+    margin-left: 15px;
+}
+.academics
+{
+    margin-top: 50px;
+    padding-left: 15px;
+    text-align: center;
+}
+section
+{
+    color: floralwhite;
+}
+a
+{
+    color: #119793;
+    text-decoration: none;
+    text-shadow: 1px 1px 1px
+}
+li, ul, ol
+{
+        padding-left: 0px;
+        list-style-type: none;
+}
+
+
